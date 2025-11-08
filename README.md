@@ -1,5 +1,7 @@
 # Adaptive-AI-Behavior-System
 
+![Adaptive AI Banner](https://github.com/SuhaibAnwaar/Adaptive-AI-Behavior-System-/blob/88adc95690b0f4a366d090d338efdaa6cbda0509/Adaptive%20AI.png)
+
 Video demonstration: https://www.youtube.com/watch?v=mA1mHz4oy3Y
 
 Author: Suhaib Anwaar
